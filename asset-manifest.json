@@ -1,0 +1,25 @@
+{
+  "files": {
+    "app.js": "/qichang-web-login/static/js/app.52fc9833.chunk.js",
+    "app.js.map": "/qichang-web-login/static/js/app.52fc9833.chunk.js.map",
+    "runtime~app.js": "/qichang-web-login/static/js/runtime~app.f222a1e4.js",
+    "runtime~app.js.map": "/qichang-web-login/static/js/runtime~app.f222a1e4.js.map",
+    "static/js/2.e9247811.chunk.js": "/qichang-web-login/static/js/2.e9247811.chunk.js",
+    "static/js/2.e9247811.chunk.js.map": "/qichang-web-login/static/js/2.e9247811.chunk.js.map",
+    "favicon-16.png": "/qichang-web-login/favicon-16.png",
+    "favicon-32.png": "/qichang-web-login/favicon-32.png",
+    "favicon.ico": "/qichang-web-login/favicon.ico",
+    "index.html": "/qichang-web-login/index.html",
+    "manifest.json": "/qichang-web-login/manifest.json",
+    "serve.json": "/qichang-web-login/serve.json",
+    "static/media/check-circle.png": "/qichang-web-login/static/media/check-circle.230b6794.png",
+    "static/media/plus-circle-o.png": "/qichang-web-login/static/media/plus-circle-o.5e5308bf.png",
+    "static/media/question-circle.png": "/qichang-web-login/static/media/question-circle.cdfb6b73.png",
+    "static/media/times-circle.png": "/qichang-web-login/static/media/times-circle.d3146686.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.f222a1e4.js",
+    "static/js/2.e9247811.chunk.js",
+    "static/js/app.52fc9833.chunk.js"
+  ]
+}
