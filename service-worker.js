@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/qichang-web-login/precache-manifest.0c55bd6fdbc37090472bbfc4e02a50fe.js"
+  "/qichang-web-login/precache-manifest.b5a92cf8a4f6a783f82941c2d0020eaf.js"
 );
 
 workbox.skipWaiting();

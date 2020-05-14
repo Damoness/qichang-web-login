@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/qichang-web-login/static/js/app.52fc9833.chunk.js",
-    "app.js.map": "/qichang-web-login/static/js/app.52fc9833.chunk.js.map",
+    "app.js": "/qichang-web-login/static/js/app.65ffe669.chunk.js",
+    "app.js.map": "/qichang-web-login/static/js/app.65ffe669.chunk.js.map",
     "runtime~app.js": "/qichang-web-login/static/js/runtime~app.f222a1e4.js",
     "runtime~app.js.map": "/qichang-web-login/static/js/runtime~app.f222a1e4.js.map",
     "static/js/2.e9247811.chunk.js": "/qichang-web-login/static/js/2.e9247811.chunk.js",
@@ -20,6 +20,6 @@
   "entrypoints": [
     "static/js/runtime~app.f222a1e4.js",
     "static/js/2.e9247811.chunk.js",
-    "static/js/app.52fc9833.chunk.js"
+    "static/js/app.65ffe669.chunk.js"
   ]
 }

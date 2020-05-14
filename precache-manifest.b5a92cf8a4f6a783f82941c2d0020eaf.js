@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "0feee4975289db6d24f4",
-    "url": "/qichang-web-login/static/js/app.52fc9833.chunk.js"
+    "revision": "84c0fbb2e96b21a63af8",
+    "url": "/qichang-web-login/static/js/app.65ffe669.chunk.js"
   },
   {
     "revision": "4a0dbe9a1a46130bc5c8",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/qichang-web-login/favicon.ico"
   },
   {
-    "revision": "07a0ce63ca18e32e3799dd7e65df1838",
+    "revision": "16ea8556d5cb927c9d248b0925f1bb89",
     "url": "/qichang-web-login/index.html"
   },
   {
