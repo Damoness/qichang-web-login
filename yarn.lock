@@ -2374,9 +2374,9 @@ expo-sqlite@~8.1.0:
     lodash "^4.17.15"
 
 expo-web-browser@~8.2.1:
-  version "8.2.0"
-  resolved "https://registry.npm.taobao.org/expo-web-browser/download/expo-web-browser-8.2.0.tgz#18f14fef54bb20e723760083689bc0aef130bb23"
-  integrity sha1-GPFP71S7IOcjdgCDaJvArvEwuyM=
+  version "8.2.1"
+  resolved "https://registry.yarnpkg.com/expo-web-browser/-/expo-web-browser-8.2.1.tgz#993ba53371862ed85cfd277ba59a7004ed412905"
+  integrity sha512-cENMuq6nhHRdJlEt0Fk1cPDK5aid8+znJeO6rFoIs7+PokMKtcVYBpzQI/TJlxRP3pjMm0qOISnLlMbDlZ+bfg==
   dependencies:
     compare-urls "^2.0.0"
 
@@ -3749,9 +3749,9 @@ mkdirp@^0.5.1:
     minimist "^1.2.5"
 
 moment@^2.24.0:
-  version "2.25.3"
-  resolved "https://registry.npm.taobao.org/moment/download/moment-2.25.3.tgz#252ff41319cf41e47761a1a88cab30edfe9808c0"
-  integrity sha1-JS/0ExnPQeR3YaGojKsw7f6YCMA=
+  version "2.29.4"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.4.tgz#3dbe052889fe7c1b2ed966fcb3a77328964ef108"
+  integrity sha512-5LC9SOxjSc2HF6vO2CyuTDNivEdoz2IvyJJGj6X8DJ0eFyfszE0QiEd+iXmBvUP3WHxSjFH/vIsA0EN00cgr8w==
 
 morgan@^1.9.0:
   version "1.10.0"
